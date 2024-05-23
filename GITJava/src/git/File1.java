@@ -12,6 +12,8 @@ System.out.println("after initial push to github");
 		
 		System.out.println("added for eclipse conflict");
 		System.out.println("added for conflict");
+		
+		System.out.println(" new next day update");
 	}
 
 }
